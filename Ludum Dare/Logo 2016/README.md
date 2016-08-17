@@ -3,7 +3,7 @@ The font used is a modified version of NULL by Font Fabric.
 
 http://www.fontfabric.com/null-free-font/
 
-[[https://github.com/povrazor/repository/blob/master/Ludum%20Dare/Logo%202016/LudumDare-Logo2016.svg|alt=Ludum Dare]]
+[[https://github.com/povrazor/repository/blob/master/Ludum%20Dare/Logo%202016/LudumDare-Logo2016.svg|alt=Ludum-Dare]]
 
 ### Notes on original font
 * Remove gaps and thin slits
