@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="LudumDare-Logo2016.svg">
+   sodipodi:docname="LudumDare-Logo2016-curveL-phatter.svg">
   <title
      id="title4159">ludum-dare</title>
   <defs
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.95127959"
-     inkscape:cx="354.96979"
-     inkscape:cy="-20.690284"
+     inkscape:zoom="2.690625"
+     inkscape:cx="130.16438"
+     inkscape:cy="-14.014115"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,6 +44,14 @@
     <inkscape:grid
        type="xygrid"
        id="grid4161" />
+    <sodipodi:guide
+       position="-15.702672,32.24158"
+       orientation="0,1"
+       id="guide4159" />
+    <sodipodi:guide
+       position="475.44716,34.37863"
+       orientation="0,1"
+       id="guide4161" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -103,13 +111,11 @@
        inkscape:connector-curvature="0"
        id="path4155"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Null Free';-inkscape-font-specification:'Null Free';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 557.34836,987.78341 c -17.54128,0 -29.83135,11.50797 -29.83135,29.04929 l 0,33.63 27.48506,0 0,-30.7473 c 0,-3.437 2.162,-5.6759 5.67592,-5.6759 l 6.61415,0 0,-26.25609 z"
-       sodipodi:nodetypes="ssccssccs" />
+       d="m 557.34836,987.78341 c -17.54128,0 -29.83135,11.50797 -29.83135,29.04929 0,14.9715 0,18.6585 0,33.63 l 27.48506,0 c 0,-16.3122 0,-18.4351 0,-34.7473 0,-1.0056 0.55864,-1.6759 1.67592,-1.6759 l 10.61415,0 0,-26.25609 -9.94378,0 z" />
     <path
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Null Free';-inkscape-font-specification:'Null Free';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 602.15887,985.88362 c -12.56008,-0.17879 -24.71305,7.77675 -29.60279,19.34108 -5.14833,11.4682 -2.73461,25.8111 5.94851,34.9169 6.44915,7.0808 16.13737,10.8291 25.66348,10.3201 l 30.27986,0 c -7.97526,-8.9101 -15.95052,-17.8203 -23.92578,-26.7304 l 23.94685,0 c 0,0 0,-3.6845 0,-5.5351 0,-10.9169 -5.79163,-21.74207 -15.21176,-27.4388 -5.09231,-3.19432 -11.09124,-4.8842 -17.09837,-4.87378 z m 0,26.70308 c 4.09124,-0.167 7.0783,4.8634 4.84643,8.3498 -1.94525,3.8851 -8.09485,3.4531 -9.85066,-0.3605 -1.67925,-3.4403 1.04715,-8.0998 5.00423,-7.9893 z"
+       d="m 602.15887,985.88362 c -12.56008,-0.17879 -24.71305,7.77675 -29.60279,19.34108 -5.14833,11.4682 -2.73461,25.8111 5.94851,34.9169 6.44915,7.0808 16.13737,10.8291 25.66348,10.3201 10.09329,0 20.18657,0 30.27986,0 -7.97526,-8.9101 -15.95052,-17.8203 -23.92578,-26.7304 7.8125,0 15.625,0 23.4375,0 2.36926,-12.6347 -3.68546,-26.31151 -14.70241,-32.9739 -5.09231,-3.19432 -11.09124,-4.8842 -17.09837,-4.87378 z m 0,26.70308 c 4.09124,-0.167 7.0783,4.8634 4.84643,8.3498 -1.94525,3.8851 -8.09485,3.4531 -9.85066,-0.3605 -1.67925,-3.4403 1.04715,-8.0998 5.00423,-7.9893 z"
        id="path4153-7"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccc" />
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
